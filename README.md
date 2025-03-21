@@ -2,10 +2,10 @@
 This thesis presents a comprehensive project involving the management of three water tanks, treated first with a centralized control system and subsequently with a decentralized control system.
 
 In particular the project is divided in the following parts:
-## Physical model and its Components
-## System and Network Set-Up.
-## Centralized Algorithm.
-## Distributed Algorithm.
+- Physical model and its Components
+- System and Network Set-Up.
+- Centralized Algorithm.
+- Distributed Algorithm.
 
 The complete report is available [here](.Water_Tank_Network_Control_System.pdf).
 

@@ -36,9 +36,6 @@ Each water represents a node of the network and it is characterized by an Arduin
 ## System and Network Set-up
 ### Sensors Calibration
 Before each simulations, the water sensors need to be calibrated. In particular each Sensor is divided into three areas: High, Medium and Low.
-<div align="center">
-  <img src="./media/calibr.jpg" alt="calibr" width="50%">
-</div>
 
 ### Wifi Connection
 In order to create a connection between the nodes, it is necessary to connect them all to the same WiFi. In this project, it was used the IP address method of communication because it offers significant benefits in terms of ease of integration and data management.

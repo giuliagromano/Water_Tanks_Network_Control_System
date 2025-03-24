@@ -7,7 +7,7 @@ In particular the project is divided in the following parts:
 - Centralized Algorithm.
 - Distributed Algorithm.
 
-The complete report is available [here](.Water_Tank_Network_Control_System.pdf).
+The complete report is available [here](Water_Tank_Network_Control_System.pdf).
 
 ## Physical model and its Components
 The physical model is composed by three interconnected water tanks and an Arduino system.
